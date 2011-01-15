@@ -1,3 +1,4 @@
-This repository contains some reusable Objective-C code:
- - Objective-C useful categories
- - Objective-C reusable classes
+This repository formerly contained multiple reusable Objective-C classses & categories.
+But to have a better organization and be asier to manage, this has been split into separate repositories.
+
+You can find the classes that used to be here in my other repositories.
